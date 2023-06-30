@@ -1,5 +1,5 @@
 # juegoAhorcado-CAC4.0-Com23416
-Proyecto integrador Desafío 3
+Proyecto Integrador Desafío 3
 
 Integrantes:
 Gabriel Dalmao Salvo (gdalmao@buenosaires.gob.ar)
